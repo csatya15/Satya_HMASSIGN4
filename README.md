@@ -1,6 +1,6 @@
 
 
-Basic GAN for MNIST Digit Generation
+**Basic GAN for MNIST Digit Generation**
 
  Description
 This project implements a simple Generative Adversarial Network (GAN) using PyTorch to generate handwritten digits similar to those in the MNIST dataset. It includes a generator and discriminator network, a training loop with alternating updates, and visual outputs at different training stages.
@@ -41,7 +41,7 @@ samples/loss_plot.png
 Loss plot of generator vs discriminator over time
 
  
-Data Poisoning Simulation on a Sentiment Classifier
+**Data Poisoning Simulation on a Sentiment Classifier**
 
  Description
 This project demonstrates a data poisoning attack on a sentiment classifier using scikit-learn. It flips sentiment labels for sentences containing a targeted entity (e.g., "UC Berkeley") in the training data to simulate malicious data injection.
