@@ -1,3 +1,4 @@
+Student Id: 700769823 Student Name: Satya Bhaskar Chaliki
 
 
 **Basic GAN for MNIST Digit Generation**
